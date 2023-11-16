@@ -10,5 +10,5 @@ Project Steps :
 * 2- Develop a machine learning model to classify SMS messages as spam or non-spam.
 * 3- Evaluate the accuracy of the model and analyze performance metrics.
 * 4- Automated Hyperparameter Optimization
-* 5- Stacking & Ensemble Learning
-* 6- Pipeline
+* 5- Pipeline
+
